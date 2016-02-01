@@ -2,12 +2,12 @@
 
 <b><font size="11">Springboard Data Science Course 2016</font></b>
 
-Capstone Project
+<b>Capstone Project</b>
 Initial Project Ideas
 
 Feedback from Community is highly appreciated.
 
-Ideas for Capstone Projects with Titles and Blurbs:
+Ideas for Capstone Projects with Titles and Blurbs in the order of my preferance.
 
 <b>Project 1.</b>  Demanding and Non-Demanding Job in San Francisco: Identify job trends in terms of number of position increased/decreased for a particular job title - Data from <a href = "https://www.kaggle.com/kaggle/sf-salaries">Kaggle Competitions</a>
 
