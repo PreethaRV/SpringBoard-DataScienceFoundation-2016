@@ -9,13 +9,12 @@ Feedback from Community is highly appreciated.
 
 Ideas for Capstone Projects with Titles and Blurbs:
 
-<b>Project 1.</b>  Demanding and Non-Demanding Job: Identify job trends in terms of number of position increased for a particular job title - Data from <a href = "https://www.kaggle.com/kaggle/sf-salaries">Kaggle Competitions</a>
+<b>Project 1.</b>  Demanding and Non-Demanding Job in San Francisco: Identify job trends in terms of number of position increased/decreased for a particular job title - Data from <a href = "https://www.kaggle.com/kaggle/sf-salaries">Kaggle Competitions</a>
 
 <ol><li><b>Background:</b> San Francisco city employee salary data is publicly available here from 2011-2014. Explore the data to find the job trend. </li>
-<li><b>The Aim:</b> Find the most demanding job and non-demanding job.</li>
-	<ol><li><b>Factors to be considered 1:</b> Find each job titles counts that have increased from the past.</li>
-	<li><b>Factors to be considered 2:</b> Identify the trend of total pay packages for demanding jobs over the past.</li>
-	<li><b>Factors to be considered 3:</b> Do we see any trend change due to overtime pays.</li></ol>
+<li><b>The Aim:</b> Find the most demanding and non-demanding jobs in San Francisco.</li>
+	<ol><li><b>Factors to be considered 1:</b> Identify jobs (titles) that have increased/decreased from the past.</li>
+	<li><b>Factors to be considered 2:</b> Identify the trend of pay packages for demanding/non demanding jobs over the past.</li></ol>
 <li><b>Data:</b> Cleaned data is available <a href = "http://transparentcalifornia.com/salaries/2014/state-of-california/">here</a></li></ol>
 
 
