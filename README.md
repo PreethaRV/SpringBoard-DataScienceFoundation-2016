@@ -1,6 +1,5 @@
-# SpringBoard-DataScienceFundation-2016
+# SpringBoard-DataScienceFoundation-Course-2016
 
-<b><font size="11">Springboard Data Science Course 2016</font></b>
 
 <b>Capstone Project</b>
 
