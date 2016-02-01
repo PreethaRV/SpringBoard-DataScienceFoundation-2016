@@ -3,6 +3,7 @@
 <b><font size="11">Springboard Data Science Course 2016</font></b>
 
 <b>Capstone Project</b>
+
 Initial Project Ideas
 
 Feedback from Community is highly appreciated.
