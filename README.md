@@ -13,11 +13,11 @@ Ideas for Capstone Projects with Titles and Blurbs:
 
 <ol><li><b>Background:</b> San Francisco city employee salary data is publicly available here from 2011-2014. Explore the data to find the job trend. </li>
 <li><b>The Aim:</b> Find the most demanding job and non-demanding job.</li>
-	<ol><li><b>Objective 1:</b> Find each job titles counts that have increased from the past.</li>
-	<li><b>Objective 2:</b> Identify correlation between the total pay packages of demanding jobs over the past.</li>
-	<li><b>Objective 3:</b> Do we see any trend in demand for overtime jobs.</li></ol>
+	<ol><li><b>Factors to be considered 1:</b> Find each job titles counts that have increased from the past.</li>
+	<li><b>Factors to be considered 2:</b> Identify the trend of total pay packages for demanding jobs over the past.</li>
+	<li><b>Factors to be considered 3:</b> Do we see any trend change due to overtime pays.</li></ol>
 <li><b>Data:</b> Cleaned data is available <a href = "http://transparentcalifornia.com/salaries/2014/state-of-california/">here</a></li></ol>
-My preference would be Project 1 
+
 
 <b>Project 2.</b>  Where will a new guest book their first travel experience?  - Data from <a href = "https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data">Kaggle Competitions</a>
 
@@ -32,3 +32,4 @@ My preference would be Project 1
 <li><b>The Aim:</b> Develop a data model that can accurately predict the relevance of search results.
 <li><b>Data:</b> Cleaned data is available <a href = "https://www.kaggle.com/c/home-depot-product-search-relevance/data">here</a></li></ol>
 
+My preference is Project 1 
