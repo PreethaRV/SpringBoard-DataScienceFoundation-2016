@@ -1,9 +1,7 @@
 # SpringBoard-DataScienceFoundation-Course-2016
 
 
-<b>Capstone Project</b>
-
-Initial Project Ideas
+<b>Capstone Project</b> : Initial Project Ideas
 
 Feedback from Community is highly appreciated.
 
