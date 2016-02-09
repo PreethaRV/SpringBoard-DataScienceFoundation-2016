@@ -13,10 +13,10 @@
 San Francisco city employee salary data is publicly available here from 2011-2014
 
 ##In brief, outline your approach to solving this problem (knowing that this might change later).
-List the job titles that have reduced over the year 
-List out the salary of job titles that have reduced over the year. Idenitify the variance.
-List the job titles that have increased over the year 
-List out the salary of job titles that have increased over the year.Idenitify the variance.
+1. List the job titles that have reduced over the year 
+2. List out the salary of job titles that have reduced over the year. Idenitify the variance.
+3. List the job titles that have increased over the year 
+4. List out the salary of job titles that have increased over the year.Idenitify the variance.
 
 ####What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.
 Deliverables would include code and markdown files.
